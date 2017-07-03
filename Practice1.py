@@ -13,5 +13,4 @@ a= "321Aa"
 
 print(a.isdigit())
 print(a.isupper())
-print(a.islower())
 
